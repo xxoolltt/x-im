@@ -1,2 +1,5 @@
 rootProject.name = 'netty-x.im'
+include 'common'
+include 'server'
+include 'client'
 
